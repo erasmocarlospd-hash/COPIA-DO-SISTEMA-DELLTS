@@ -28,7 +28,7 @@ export const INITIAL_USERS: UserAccount[] = [
   {
     id: 'admin-01',
     username: 'ADMIN',
-    password: 'ADMIN',
+    password: 'underground12',
     accessLevel: 'ADMIN'
   }
 ];
